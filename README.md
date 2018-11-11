@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-This is the code for the Twitter Sentiment Analysis using the <b>tweepy</b> library to access the <i>Twitter API</i> and the <b>TextBlob</b> library to perform Sentiment Analysis on each Tweet. Sentiment Analysis is a the process to understand and extract feelings from data.
+This is the code for the Twitter Sentiment Analysis using the <b>tweepy</b> library to access the <i>Twitter API</i> and the <b>TextBlob</b> library to perform Sentiment Analysis on each Tweet. Sentiment Analysis is the process to understand and extract feelings from data.
 
 We will be able to see how positive or negative each tweet is about <strong>whatever topic we choose</strong>.
 
